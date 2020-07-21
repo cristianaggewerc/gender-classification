@@ -1,11 +1,12 @@
-<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="FIT5149_S1_2020_Assessment_2_Authorship_Profiling_0"></a>FIT5149 S1 2020 Assessment 2: Authorship Profiling</h1>
+<h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="FIT5149_S1_2020_Assessment_2_Authorship_Profiling_0"></a>Authorship Profiling: Tweet Gender Classification</h1>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="Description_2"></a>Description</h2>
-<p class="has-line-data" data-line-start="4" data-line-end="5">These files generate the preprocessing and modelling for gender classification of tweets for an internal Monash Kaggle competition. The best model we were able to train was the Logistic Regression in <code>group41_ass2_final_classifier.ipynb</code>.</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">These files generate the preprocessing and modelling for gender classification of tweets for a Monash Kaggle competition. The best model we were able to train was the Logistic Regression in <code>final_classifier.ipynb</code>.</p>
 <h2 class="code-line" data-line-start=6 data-line-end=7 ><a id="Files_6"></a>Files</h2>
+![Imgur](https://i.imgur.com/ngPhkga.png)
 <p class="has-line-data" data-line-start="8" data-line-end="9">This project comprises two Python3 Jupyter Notebook files:</p>
 <ol>
-<li class="has-line-data" data-line-start="10" data-line-end="11">group41_ass2_wrangling.ipynb</li>
-<li class="has-line-data" data-line-start="11" data-line-end="13">group41_ass2_final_classifier.ipynb</li>
+<li class="has-line-data" data-line-start="10" data-line-end="11">data_wrangling.ipynb</li>
+<li class="has-line-data" data-line-start="11" data-line-end="13">final_classifier.ipynb</li>
 </ol>
 <p class="has-line-data" data-line-start="13" data-line-end="14">Two .csv:</p>
 <ol start="3">
